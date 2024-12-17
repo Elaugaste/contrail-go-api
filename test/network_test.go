@@ -12,9 +12,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Juniper/contrail-go-api"
-	"github.com/Juniper/contrail-go-api/config"
-	"github.com/Juniper/contrail-go-api/types"
+	"github.com/Elaugaste/contrail-go-api"
+	"github.com/Elaugaste/contrail-go-api/config"
+	"github.com/Elaugaste/contrail-go-api/types"
 )
 
 func expectNetworkHasSubnet(t *testing.T, network *types.VirtualNetwork, prefix string) {

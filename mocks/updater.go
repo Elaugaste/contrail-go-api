@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/Juniper/contrail-go-api"
+	"github.com/Elaugaste/contrail-go-api"
 )
 
 type objectUpdater struct {

@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Juniper/contrail-go-api"
+	"github.com/Elaugaste/contrail-go-api"
 	"github.com/pborman/uuid"
 )
 
